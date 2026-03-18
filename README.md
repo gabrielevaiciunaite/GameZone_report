@@ -111,7 +111,7 @@ The purpose of this project was to evaluate GameZone’s commercial performance 
 </p>
 
 <h2 align="center">Sales Performance</h2>
-<img src="dashboard/diagrams/sales.png" width=950>
+<img src="dashboard/sales.png" width=950>
 <table align="center">
   <thead>
     <tr>
@@ -296,7 +296,7 @@ The purpose of this project was to evaluate GameZone’s commercial performance 
 </p>
 
 <h2 align="center">Platform Performance</h2>
-<img src="dashboard/diagrams/platform.png" width=800>
+<img src="dashboard/platform.png" width=800>
 <table align="center">
   <thead>
     <tr>
