@@ -2,7 +2,7 @@
 <h2 align="center">Executive Summary</h2>
 
 <p>
-This project analyzes the commercial performance of <strong>GameZone</strong>, a fictional e-commerce retailer specializing in gaming hardware, consoles, and accessories, between <strong>2019 and 2022</strong>. During the analyzed period, the business generated <strong>$6.2M in gross merchandise value (GMV)</strong> from <strong>22K orders</strong> placed by <strong>20K customers</strong>, with an <strong>overall company-wide average order value (AOV) of $283.2</strong>.
+This project analyzes the commercial performance of <strong>GameZone</strong>, a fictional e-commerce retailer specializing in gaming hardware, consoles, and accessories, between <strong>2019 and 2022</strong>. During the analyzed period, the business generated <strong>$6.2M from <strong>22K orders</strong> placed by <strong>20K customers</strong>, with an <strong>overall company-wide average order value of $283.2</strong>.
 </p>
 
 <p>
