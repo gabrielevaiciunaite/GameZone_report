@@ -453,29 +453,34 @@ The purpose of this project was to evaluate GameZone’s commercial performance 
 <h2 align="center">Project Structure</h2>
 
 <pre>
-gamezone-ecommerce-performance-analysis/
-│
-├── data/
-│   ├── orders.csv
-│   ├── products.csv
-│   └── region.csv
-│
-├── sql/
-│   ├── data_cleaning.sql
-│   ├── kpi_views.sql
-│   ├── product_analysis.sql
-│   ├── customer_analysis.sql
-│   ├── marketing_analysis.sql
-│   └── region_analysis.sql
+GameZone_report/
 │
 ├── dashboard/
-│   ├── project.pbix
-│   ├── overview.png
-│   ├── products.png
-│   ├── customers.png
-│   ├── marketing.png
-│   └── regions.png
+│   ├── customers-dashboard.png
+│   ├── marketing-dashboard.png
+│   ├── overview-dashboard.png
+│   ├── platform.png
+│   ├── products-dashboard.png
+│   ├── regions-dashboard.png
+│   └── sales.png
 │
+├── datasets/
+│   └── report_ready_csv/
+│       ├── customer_ltv.csv
+│       ├── customer_segments.csv
+│       ├── kpis.csv
+│       ├── marketing_performance.csv
+│       ├── monthly_performance.csv
+│       ├── platform_performance.csv
+│       ├── repeat_purchase_rate.csv
+│       └── top_products_by_revenue.csv
+│
+├── sql/
+│   ├── ddl_gamezone.sql
+│   └── gamezone.sql
+│
+├── gamezone-orders-data.xlsx
+├── LICENSE
 └── README.md
 </pre>
 
