@@ -7,8 +7,8 @@
 <h2 align="center">Live Dashboard</h2>
 
 <p align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9">
-    <img src="dashboard/overview.png" width="950" alt="GameZone Power BI Dashboard">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9"](https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9")>
+    <img src="dashboard/overview-dashboard.png" width="950" alt="GameZone Power BI Dashboard">
   </a>
 </p>
 
