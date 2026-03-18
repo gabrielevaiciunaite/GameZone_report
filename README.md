@@ -19,7 +19,7 @@ Overall, the analysis suggests that GameZone has strong product-market demand an
 
 <h2 align="center">Live Dashboard</h2>
 <p align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9&pageName=26af8cb03e210080054e">
     View Interactive Power BI Dashboard 📈
   </a>
 </p>
