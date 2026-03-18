@@ -1,23 +1,4 @@
 <h1 align="center">🎮 GameZone E-Commerce Performance Analysis (2019–2022)</h1>
-
-<p align="center">
-  SQL • PostgreSQL • Power BI • E-Commerce Analytics Portfolio Project
-</p>
-
-<h2 align="center">Live Dashboard</h2>
-
-<p align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9"](https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9")>
-    <img src="dashboard/overview-dashboard.png" width="950" alt="GameZone Power BI Dashboard">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9">
-    View Interactive Power BI Dashboard
-  </a>
-</p>
-
 <h2 align="center">Executive Summary</h2>
 
 <p>
@@ -35,6 +16,18 @@ The sales trend shows a sharp acceleration during the pandemic years, with month
 <p>
 Overall, the analysis suggests that GameZone has strong product-market demand and an effective acquisition engine, but long-term growth will depend on improving customer retention, reducing concentration risk, expanding high-value channels, and increasing the efficiency of mobile and regional growth.
 </p>
+
+<h2 align="center">Live Dashboard</h2>
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9">
+    View Interactive Power BI Dashboard 📈
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9"](https://app.powerbi.com/view?r=eyJrIjoiYWUxMjhkZmEtYmMxYi00ODc0LWEyOGQtOTRiZjBjYjk0Y2M3IiwidCI6ImEwYzY3MzQ4LTdhYWYtNDE0MC05YzVhLTNhMmUwNmJmMGYwZCIsImMiOjh9")>
+  </a>
+</p> 
 
 <h2 align="center">Project Overview</h2>
 
@@ -56,7 +49,7 @@ Overall, the analysis suggests that GameZone has strong product-market demand an
     </tr>
     <tr>
       <td align="center"><strong>Tools</strong></td>
-      <td align="center">PostgreSQL, SQL, Power BI</td>
+      <td align="center">PostgreSQL, Excel, Power BI</td>
     </tr>
     <tr>
       <td align="center"><strong>Focus Areas</strong></td>
@@ -93,22 +86,22 @@ The purpose of this project was to evaluate GameZone’s commercial performance 
     <tr>
       <td align="center"><strong>GMV</strong></td>
       <td align="center"><strong>$6.2M</strong></td>
-      <td align="center">Strong topline revenue performance over the 4-year period</td>
+      <td align="center">Demonstrates meaningful commercial scale across the analyzed period.</td>
     </tr>
     <tr>
       <td align="center"><strong>Total Orders</strong></td>
       <td align="center"><strong>22K</strong></td>
-      <td align="center">Meaningful transaction volume and broad market activity</td>
+      <td align="center">Shows strong transaction volume, but requires retention context to assess sustainability.</td>
     </tr>
     <tr>
       <td align="center"><strong>Total Customers</strong></td>
       <td align="center"><strong>20K</strong></td>
-      <td align="center">Broad customer base, but low repeat purchase intensity</td>
+      <td align="center">Large customer base, though order-to-customer ratio suggests limited repeat activity.</td>
     </tr>
     <tr>
       <td align="center"><strong>Overall Company AOV</strong></td>
       <td align="center"><strong>$283.2</strong></td>
-      <td align="center">Healthy basket value at company-wide level</td>
+      <td align="center">Indicates healthy basket value at company level and supports premium product positioning.</td>
     </tr>
   </tbody>
 </table>
@@ -118,7 +111,7 @@ The purpose of this project was to evaluate GameZone’s commercial performance 
 </p>
 
 <h2 align="center">Sales Performance</h2>
-
+<img src="dashboard/diagrams/sales.png" width=950>
 <table align="center">
   <thead>
     <tr>
@@ -147,10 +140,11 @@ The purpose of this project was to evaluate GameZone’s commercial performance 
 </table>
 
 <p>
-GameZone experienced a clear revenue expansion phase between 2019 and 2020. This growth reflects strong demand in gaming-related categories during the pandemic, but the later moderation suggests that not all growth was structurally repeatable. As market conditions normalized, concentration and retention issues became more important to the long-term outlook.
+<li>GameZone experienced a clear revenue expansion phase between 2019 and 2020. This growth reflects strong demand in gaming-related categories during the pandemic, but the later moderation suggests that not all growth was structurally repeatable. As market conditions normalized, concentration and retention issues became more important to the long-term outlook.</li>
 </p>
 
 <h2 align="center">Product Performance</h2>
+<img src="dashboard/products-dashboard.png" width=950>
 
 <table align="center">
   <thead>
@@ -158,6 +152,7 @@ GameZone experienced a clear revenue expansion phase between 2019 and 2020. This
       <th align="center">Product</th>
       <th align="center">Revenue</th>
       <th align="center">Revenue Share</th>
+      <th align="center">Refund Rate</th>
     </tr>
   </thead>
   <tbody>
@@ -165,56 +160,40 @@ GameZone experienced a clear revenue expansion phase between 2019 and 2020. This
       <td align="center">27in 4K Gaming Monitor</td>
       <td align="center">$1.95M</td>
       <td align="center">~31%</td>
+      <td align="center">20.81%</td>
     </tr>
     <tr>
       <td align="center">Nintendo Switch</td>
       <td align="center">$1.66M</td>
       <td align="center">~27%</td>
+      <td align="center">19.37%</td>
     </tr>
     <tr>
       <td align="center">Sony PlayStation 5 Bundle</td>
       <td align="center">$1.59M</td>
       <td align="center">~26%</td>
+      <td align="center">18.01%</td>
     </tr>
     <tr>
       <td align="center"><strong>Top 3 Combined</strong></td>
       <td align="center"><strong>$5.20M</strong></td>
       <td align="center"><strong>~84%</strong></td>
+      <td align="center"><strong>High refund exposure</strong></td>
     </tr>
   </tbody>
 </table>
 
-<p>
-Revenue is highly concentrated in a very small number of flagship products. This confirms strong product-market fit, but also exposes the business to product-level risk. If demand weakens or availability changes for a few core items, company-wide performance could be materially affected.
-</p>
+<h3 align="center">Key Insights</h3>
 
-<h3 align="center">Refund Rates</h3>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th align="center">Selected Product Refund Rates</th>
-      <th align="center">Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Highest Observed Refund Rate</td>
-      <td align="center">20.81%</td>
-    </tr>
-    <tr>
-      <td align="center">Other High Refund Rates</td>
-      <td align="center">19.37%, 19.13%, 18.01%</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>
-Some products show refund rates close to <strong>1 in 5 purchases</strong>, suggesting that not all revenue is equally healthy. Gross sales alone may overstate the commercial quality of certain products.
-</p>
-
+<ul>
+  <li>Revenue is highly concentrated in a very small number of flagship products, with the top 3 products contributing approximately <strong>84%</strong> of total GMV.</li>
+  <li>This confirms strong product-market fit, but also exposes the business to significant product-level concentration risk.</li>
+  <li>The same high-revenue products also show elevated refund behavior, which reduces revenue quality.</li>
+  <li>Some products show refund rates close to <strong>1 in 5 purchases</strong>, suggesting that not all revenue is equally healthy.</li>
+  <li>Gross sales alone may overstate the true commercial quality of certain products due to elevated return behavior.</li>
+</ul>
 <h2 align="center">Customer Analysis</h2>
-
+<img src="dashboard/customers-dashboard.png" width=950>
 <table align="center">
   <thead>
     <tr>
@@ -258,11 +237,11 @@ Some products show refund rates close to <strong>1 in 5 purchases</strong>, sugg
 </table>
 
 <p>
-Customer behavior shows that GameZone is significantly stronger at acquisition than retention. The business can attract buyers, but has not yet built a strong repeat-purchase engine. This limits long-term efficiency and makes growth more dependent on continuously bringing in new customers.
+<li>Customer behavior shows that GameZone is significantly stronger at acquisition than retention. The business can attract buyers, but has not yet built a strong repeat-purchase engine. This limits long-term efficiency and makes growth more dependent on continuously bringing in new customers.</li>
 </p>
 
 <h2 align="center">Marketing Performance</h2>
-
+<img src="dashboard/marketing-dashboard.png" width=950>
 <table align="center">
   <thead>
     <tr>
@@ -313,11 +292,11 @@ Customer behavior shows that GameZone is significantly stronger at acquisition t
 </table>
 
 <p>
-Direct is overwhelmingly dominant, contributing approximately <strong>84% of total revenue</strong>. However, smaller channels such as <strong>Affiliate</strong> generate stronger customer value metrics, indicating that the biggest channel is not necessarily the most efficient one.
+<li>Direct is overwhelmingly dominant, contributing approximately <strong>84% of total revenue</strong>. However, smaller channels such as <strong>Affiliate</strong> generate stronger customer value metrics, indicating that the biggest channel is not necessarily the most efficient one.</li>
 </p>
 
 <h2 align="center">Platform Performance</h2>
-
+<img src="dashboard/diagrams/platform.png" width=800>
 <table align="center">
   <thead>
     <tr>
@@ -341,11 +320,11 @@ Direct is overwhelmingly dominant, contributing approximately <strong>84% of tot
 </table>
 
 <p>
-The website drives roughly <strong>9x more orders</strong> than the mobile app. This suggests that the web channel is the primary conversion engine, while mobile remains an underdeveloped commercial opportunity.
+<li>The website drives roughly <strong>9x more orders</strong> than the mobile app. This suggests that the web channel is the primary conversion engine, while mobile remains an underdeveloped commercial opportunity.</li>
 </p>
 
 <h2 align="center">Regional Performance</h2>
-
+<img src="dashboard/regions-dashboard.png" width=950>
 <table align="center">
   <thead>
     <tr>
@@ -396,7 +375,7 @@ The website drives roughly <strong>9x more orders</strong> than the mobile app. 
 </table>
 
 <p>
-North America is the dominant region, contributing roughly <strong>52% of total GMV</strong>. Regional AOV remains relatively stable across major markets, which suggests that the key difference between regions is not basket value, but overall scale of demand.
+<li>North America is the dominant region, contributing roughly <strong>52% of total GMV</strong>. Regional AOV remains relatively stable across major markets, which suggests that the key difference between regions is not basket value, but overall scale of demand.</li>
 </p>
 
 <h2 align="center">Cross-Functional Insights</h2>
@@ -471,28 +450,6 @@ North America is the dominant region, contributing roughly <strong>52% of total 
   </tbody>
 </table>
 
-<h2 align="center">Dashboard Preview</h2>
-
-<p align="center">
-  <img src="dashboard/overview.png" width="900" alt="Overview Dashboard">
-</p>
-
-<p align="center">
-  <img src="dashboard/products.png" width="900" alt="Products Dashboard">
-</p>
-
-<p align="center">
-  <img src="dashboard/customers.png" width="900" alt="Customers Dashboard">
-</p>
-
-<p align="center">
-  <img src="dashboard/marketing.png" width="900" alt="Marketing Dashboard">
-</p>
-
-<p align="center">
-  <img src="dashboard/regions.png" width="900" alt="Regions Dashboard">
-</p>
-
 <h2 align="center">Project Structure</h2>
 
 <pre>
@@ -525,9 +482,10 @@ gamezone-ecommerce-performance-analysis/
 <h2 align="center">Final Conclusion</h2>
 
 <p>
-GameZone demonstrates strong topline performance, but the analysis shows that this success is built on a narrow set of commercial drivers. Approximately <strong>84% of revenue</strong> comes from the top 3 products, around <strong>84% from Direct</strong>, roughly <strong>90% of customers buy only once</strong>, about <strong>90% of orders come from the website</strong>, and <strong>North America contributes ~52% of total GMV</strong>.
+<li> GameZone demonstrates strong topline performance, but the analysis shows that this success is built on a narrow set of commercial drivers. </li>
+<li> Approximately <strong>84% of revenue</strong> comes from the top 3 products, around <strong>84% from Direct</strong>, roughly <strong>90% of customers buy only once</strong>, about <strong>90% of orders come from the website</strong>, and <strong>North America contributes ~52% of total GMV</strong>. </li>
 </p>
 
 <p>
-This means the business has proven demand, but not yet a fully resilient growth model. The next phase of growth should focus on improving retention, diversifying product and channel mix, increasing mobile contribution, and scaling more deliberately across regions.
-</p>
+<li>This means the business has proven demand, but not yet a fully resilient growth model. The next phase of growth should focus on improving retention, diversifying product and channel mix, increasing mobile contribution, and scaling more deliberately across regions.
+</p></li>
